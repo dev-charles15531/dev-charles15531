@@ -2,6 +2,13 @@
 <h3 align="center">A passionate web, mobile and desktop developer from Nigeria</h3>
 <br />
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
+
+<br />
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-charles15531" alt="dev-charles15531" /></a> </p>
 <br />
 
