@@ -3,7 +3,7 @@
 
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-charles15531" alt="dev-charles15531" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-charles15531" alt="dev-charles15531" /></a> </p>
 <br />
 
 - 🌱 I’m currently learning **DevOps and SpringBoot**
