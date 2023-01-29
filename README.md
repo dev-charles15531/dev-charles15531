@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charles Paul</h1>
 <h3 align="center">A passionate web, mobile and desktop developer from Nigeria</h3>
-<br />
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
 
 <br />
 
