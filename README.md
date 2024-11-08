@@ -1,4 +1,3 @@
-![alt text](https://github.com/dev-charles15531/dev-charles15531/blob/main/resources/banner.jpg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Charles Paul</h1>
 <h3 align="center">A passionate web, mobile and desktop developer from Nigeria</h3>
