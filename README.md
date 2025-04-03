@@ -165,8 +165,8 @@
   npx mind-meld \
     --paradigm "fullstack_psychops" \
     --archetypes "creator,pattern_breaker" \
-    --contact "devcharlesofficial@gmail.com" \
-    --socials "linkedin|twitter|portfolio" \
+    --contact "devcharles15531@gmail.com" \
+    --socials "linkedin|twitter|facebook" \
     --params "remote-ready=true risk-tolerant=85% caffeine-level=MAX"
   ```
 
