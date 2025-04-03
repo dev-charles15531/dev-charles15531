@@ -77,8 +77,8 @@
 ``` 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
   [ Core Systems ]  [ Frontend Matrix ]  [ Mobile Grid ]
-  ├─ Java          ├─ Vue/Nuxt         ├─ React Native
-  ├─ C/C++         └─ React            └─ Ionic
+  ├─ Java           ├─ Vue/Nuxt         ├─ React Native
+  ├─ C/C++          └─ React            └─ Ionic
   ├─ C/C++
   └─ PHP/Laravel                   
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
